@@ -1,0 +1,8 @@
+123D Circuits Bill Of Materials,,,
+IDS,#,Component,Footprint
+Ubluethoot,1,HC05 Bluetooth Module  ,1x6 Header (forked) 
+Dled rojo,1,LED  rojo,805
+Dled amarillo,1,LED amarillo,805
+"MCDI, MArranque",2,Relay 5V Module  ,FP Relay 5V Module
+U1,1,Arduino Nano,Arduino Micro Footprint
+,,,
