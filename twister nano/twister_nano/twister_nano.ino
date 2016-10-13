@@ -1,7 +1,7 @@
-int led13=3;
+int led13=13;
 int led12=2;
 String estado="";
-int releeCDI=5;
+int releeCDI=11;
 int releeEncendido=4;
 boolean  flag = false;
 
@@ -13,6 +13,7 @@ void setup(){
   //pinMode(releeEncendido,OUTPUT);
   //digitalWrite(releeEncendido, HIGH);  
   digitalWrite(releeCDI, HIGH);  
+  digitalWrite(led13,HIGH);
 }
 
 
